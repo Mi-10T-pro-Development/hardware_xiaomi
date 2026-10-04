@@ -8,7 +8,7 @@
 
 #include "Legacy2Aidl.h"
 #include "Session.h"
-
+#include <functional>
 #include "CancellationSignal.h"
 
 namespace aidl::android::hardware::biometrics::fingerprint {
